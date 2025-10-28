@@ -1,0 +1,11 @@
+{
+  "name": "tugas-sesi-6-pemrograman-berbasis-platform---syahril-202040040302",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webServer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "syahril",
+  "license": "ISC"
+}
